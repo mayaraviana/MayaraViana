@@ -6,7 +6,7 @@
 - League of Legends
 - Avatar Aang and Korra 
 
-![alt text](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif "Internet off")
+![alt text](https://1.bp.blogspot.com/-BTAN_rO9SVk/VOIGvx29cPI/AAAAAAAAAfw/UalczoFhF5w/s1600/dino-chrome.gif "Internet off")
 
 
 
