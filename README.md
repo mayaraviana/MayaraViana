@@ -1,4 +1,4 @@
-![image](https://c.tenor.com/HZ_HbbaV9IMAAAAd/study-studying.gif)
+![Alt Text](https://c.tenor.com/HZ_HbbaV9IMAAAAd/study-studying.gif)
 
 ### ☕  Wanna chat? 
 
