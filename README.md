@@ -1,6 +1,1 @@
-![Alt Text](https://c.tenor.com/HZ_HbbaV9IMAAAAd/study-studying.gif)
-
-### ☕  Wanna chat? 
-
-👉 @ me on [Twitter](https://twitter.com/mayaraviane) 
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
