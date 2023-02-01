@@ -3,11 +3,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-429%20Thousand%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
-> 🏆 29 Contributions in the Year 2023
+> 🏆 31 Contributions in the Year 2023
  > 
-> 📦 131.4 kB Used in GitHub's Storage 
+> 📦 131.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -28,5 +30,5 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2023 16:22:29 UTC
+ Last Updated on 01/02/2023 16:57:07 UTC
 <!--END_SECTION:waka-->
