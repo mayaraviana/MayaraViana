@@ -3,11 +3,9 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 27 Contributions in the Year 2023
+> 🏆 29 Contributions in the Year 2023
  > 
 > 📦 131.4 kB Used in GitHub's Storage 
  > 
@@ -29,10 +27,6 @@ JavaScript               2 repos             ██░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/mayaraviana/mayaraviana/master/charts/bar_graph.png) 
-
-
- Last Updated on 01/02/2023 16:18:24 UTC
+ Last Updated on 01/02/2023 16:22:29 UTC
 <!--END_SECTION:waka-->
